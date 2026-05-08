@@ -1,3 +1,16 @@
-# simulacao-campanhas-marketing-sql
-# Criar uma base fictícia de campanhas de marketing digital com dados aleatórios, ideal para praticar SQL em cenários reais de análise
-# como taxa de conversão, impressões, orçamentos, canais de divulgação, entre outros
+# Análise de Campanhas de Marketing (SQL)
+
+## Objetivo
+Simular um cenário real de análise de campanhas de marketing digital.
+
+## Estrutura
+- Base de dados fictícia
+- Tabelas de campanhas, canais, orçamento e conversão
+
+## Análises realizadas
+- Taxa de conversão por canal
+- ROI por campanha
+- Comparação entre investimentos e retorno
+
+## Tecnologias
+- SQL (PostgreSQL)
